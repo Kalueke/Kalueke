@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=200&section=header&text=Hi%20there!%20👋&fontColor=ffffff&fontSize=40&desc=I%27m%20Kalu%20Eke%20-%20Business%20Central%20Techno-Functional%20Consultant&descAlign=70&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=200&section=header&text=Hi%20there!%20👋&fontColor=ffffff&fontSize=40&desc=I%27m%20Kalu%20Eke%20-%20Business%20Central%20Techno-Functional%20Consultant&descAlign=50&descAlignY=65)
 
 ---
 
